@@ -1,1 +1,2 @@
 # projet-C
+Le programme E-Bank, écrit en langage C, est une application de gestion bancaire en ligne via l'interface de commande. Il offre des fonctionnalités telles que la création de nouveaux comptes, la mise à jour des informations des comptes existants, la gestion des transactions bancaires, la suppression de comptes et l'affichage des détails des comptes existants. Des structures de données avancées sont utilisées pour le stockage des informations des comptes.
